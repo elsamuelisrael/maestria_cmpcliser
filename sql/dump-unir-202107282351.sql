@@ -36,7 +36,7 @@ CREATE TABLE `losnombres` (
 
 LOCK TABLES `losnombres` WRITE;
 /*!40000 ALTER TABLE `losnombres` DISABLE KEYS */;
-INSERT INTO `losnombres` VALUES (1,'María Luisa Azcárraga Miquel',1),(2,'Fernando González Azcarraga',1),(3,'Luna Daniela Pérez González',1),(4,'Laura Miquel González',1),(5,'Alfredo Pérez Velázquez',1),(6,'Martha Alicia Velazquez Flores',1),(7,'Samuel I. Azcárraga Velázquez',1),(10,'Jorge Alberto Frias Rochin',1),(21,'Leslie Lorena Tinajero Uribe',1);
+INSERT INTO `losnombres` VALUES (1,'María Luisa Azcárraga Miquel',1),(2,'Fernando González Azcarraga',1),(3,'Luna Daniela Pérez González',1),(4,'Laura Miquel González',1),(5,'Alfredo Pérez Velázquez',1),(6,'Martha Alicia Velazquez Flores',1),(7,'Samuel I. Azcárraga Velázquez',1);
 /*!40000 ALTER TABLE `losnombres` ENABLE KEYS */;
 UNLOCK TABLES;
 
